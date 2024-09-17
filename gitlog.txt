@@ -1,0 +1,14 @@
+290bf4c Merge pull request #1 from jerhomie2/feature-jerhomie2
+fe16118 added file
+1cbc50e Resolved the conflict maybe...
+e8b90ee Modified text of features on the features branch
+31edfbd Modified feature text
+7b98cfa Merge branch 'features' Merging features into main
+6e639ef Added some very important text to file 1
+a4a4c62 Added text to new features
+20604ac add empty file
+baa18f4 Create .gitignore file
+4bdadde Create readme file
+6fe457e change second file
+b2a892b change first file
+6a9b447 create new files

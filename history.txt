@@ -1,0 +1,125 @@
+    1  git --version
+    8  git status
+   10  git status
+   13  git status
+   14  git config --global user.name
+   15  git config --global user.email
+   16  git config --global user.name "StacheXC"
+   17  git config --global user.name
+   18  git config --global user.email brettpedersen@icloud.com
+   19  git config --global user.email
+   20  git config --global init.defaultBranch main
+   21  git config --global init.defaultBranch
+   22  git --version
+   36  git init
+   37  git status
+   42  git add file_1.txt
+   43  git status
+   44  git commit
+   45  git commit "Created a file"
+   46  git status
+   48  git commit -m "Created a file"
+   49  git status
+   50  git log
+   51  git status
+   52  git remote add origin git@github.com:StacheXC/test.git
+   53  git push -u origin main
+   54  git add file_1.txt
+   55  git commit -m "added some text"
+   56  git status
+   58  git push -u origin main
+   61  git status
+   66  git status
+   67  git init
+   70  git add BikeShare.R
+   71  git commit -m "Created R file"
+   72  git status
+   74  git remote add origin git@github.com:StacheXC/BikeShare2.git
+   75  git push -u origin main
+   77  git status
+   78  git add .
+   79  git commit -m "training set and did some EDA"
+   80  git status
+   81  git push -u origin main
+   84  git status
+   86  git status
+   89  git rm .git
+   91  git rm -la .git
+   92  git status
+   94  rm -fr .git
+   95  git status
+   99  git status
+  101  git status
+  102  git rm -fr .git
+  103  rm -fr .git
+  104  git status
+  110  git status
+  111  git add .
+  112  git commit -m "Created and submitted a linear regression model"
+  113  git status
+  114  git push -u origin main
+  116  git status
+  117  mkdir git_practice
+  119  cd git_practice
+  120  git init
+  121  git status
+  123  git status
+  126  git add file1.txt
+  127  git status
+  129  git commit -m "Added file 1"
+  130  git status
+  131  git add file2.txt
+  132  git commit -m "Added file 2"
+  133  git status
+  134  git log
+  137  touch .gitignore
+  138  git add .
+  139  git commit -m "Add gitignore"
+  140  git log
+  148  git status
+  151  cd git_practice
+  153  rm -la .git
+  154  rm -fr .git
+  155  git status
+  159  rm git_practice
+  160  git config -global user.name
+  161  git config --global user.name
+  162  git config --global user.email
+  165  mkdir git-practice-StacheXC
+  167  cd git-practice-StacheXC
+  170  git init
+  172  git status
+  176  git status
+  178  git add .
+  179  git status
+  180  git commit -m "create new files"
+  182  git status
+  183  git log
+  187  git status
+  188  git add .
+  189  git commit -m "Clean data, create R markdown file, submit a million attempts"
+  190  git log
+  191  git status
+  192  git push
+  193  git log
+  195  git status
+  199  git clone git@github.com:StacheXC/lab1practice-jerhomie2.git
+  202  git status
+  203  git branch
+  204  git checkout -b feature-StacheXC
+  205  git branch
+  206  git touch new_file.txt
+  212  git status
+  213  git add new_file.txt
+  214  git commit -m "Added new file to fork"
+  215  git status
+  216  git push origin feature-StacheXC
+  220  cd git-practice-StacheXC
+  221  git status
+  222  git log
+  223  git pull
+  225  git status
+  226  cd OneDrive/Desktop/Stat_386/git-practice-StacheXC
+  227  git status
+  228  git log --oneline > gitlog.txt
+  230  history | grep git > history.txt
